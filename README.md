@@ -5,7 +5,7 @@ I'm Lena, and I'm a frontend developer!
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on a pet project using HTML, CSS and JS
-- 🌱 I’m currently learning more about React
+- 🌱 I’m currently learning more about Redux Toolkit and TypeScript
 - 💬 Ask me about foreign languages, traveling or sci-fi and fantasy books
 - 📫 How to reach me:
   <a href="https://t.me/elekovalenko">
